@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94216575/141703758-785ba71b-4e9b-4243-8c41-e4d961e2bc27.jpeg")/>
+</p>
 
-<!--
-**Mixocity/Mixocity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Mixocity Feature Updates/Checklist:
+
+### 1. Landing Page w/Admin Login (Completed)
+### 2. Login Page (Complete)
+### 3. Sign up/Registration Page (Incomplete) going to use Firebase or MongoDB 
+### 4. Home Page/Featured Drinks Styling (In Progress)
+### 5. Home Page/Featured Drink Functionality (Incomplete)
+### 6. Search For Drink Feature (Incomplete)
+### 7. Create A Recipe page "Theme" in xaml Styles (Incomplete)
+
