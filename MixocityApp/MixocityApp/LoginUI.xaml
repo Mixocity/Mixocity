@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MixocityApp.LoginUI"
+             BackgroundColor="Black"
+             
+             >
+            
+    <ContentPage.Content>
+        <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+
+           
+
+            <Image Source = "Mixocity_Logo.png" WidthRequest="180" HeightRequest="200" TranslationY="0" ></Image>
+
+            <Entry x:Name="txtUsername" Placeholder="Username" TextColor="White" PlaceholderColor="Gray" Margin="0,200,0,40" TranslationY="-100"   ></Entry>
+            <Entry x:Name="txtPassword" Placeholder="Password" TextColor="White" IsPassword="True" PlaceholderColor="Gray" Margin="0,0,0,50" TranslationY="-50" ></Entry>
+            <Button 
+                VerticalOptions="Center"
+                Text="Login"
+                TextColor="white"
+                BackgroundColor="Transparent"
+                BorderWidth="1.5"
+                BorderColor="#ceb04e"
+                CornerRadius="50" 
+                Clicked="Button_Clicked"
+                ></Button>
+            <Label HorizontalOptions="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Don't have an account?" TextColor="Gray"  />
+                        <Span Text="Register" TextColor="gray" FontAttributes="Bold" TextDecorations="Underline"  />
+                    </FormattedString>
+                   
+
+                </Label.FormattedText>
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                </Label.GestureRecognizers>
+                
+            </Label>
+                
+            
+
+           </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

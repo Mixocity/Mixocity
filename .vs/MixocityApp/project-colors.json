@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25cfdef9-633f-4178-b60a-d9dd1f40af62": {
+      "ProjectGuid": "25cfdef9-633f-4178-b60a-d9dd1f40af62",
+      "DisplayName": "MixocityApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "98d8051c-d589-4c64-a132-943a4ec0e44d": {
+      "ProjectGuid": "98d8051c-d589-4c64-a132-943a4ec0e44d",
+      "DisplayName": "MixocityApp.Android",
+      "ColorIndex": 1
+    },
+    "1925956f-e70b-4cc2-a3d2-aa3f7dfc3f8f": {
+      "ProjectGuid": "1925956f-e70b-4cc2-a3d2-aa3f7dfc3f8f",
+      "DisplayName": "MixocityApp.iOS",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

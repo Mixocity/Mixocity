@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "M//XnZEUw6NGVTztWzWTGmWLeRVN2sJONUXPAjvoqWTC6GGDVXl3ENp3VLFtZrvMA02qxY166BxbmFRG+MQTlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\getwo\\Mixocity\\MixocityApp\\MixocityApp\\MixocityApp\\MixocityApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\getwo\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\4.0.11\\com.airbnb.xamarin.forms.lottie.4.0.11.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\plugin.mediamanager\\1.0.9\\plugin.mediamanager.1.0.9.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\plugin.mediamanager.forms\\1.0.9\\plugin.mediamanager.forms.1.0.9.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

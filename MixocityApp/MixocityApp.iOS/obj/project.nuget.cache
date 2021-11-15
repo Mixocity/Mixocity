@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QiAw6v8eAWdGIeeqkEc3i0bMLmiBiIo4Y5pmiLy7iNCk+ohKFtP8VNr3vJ5tzkcwHwxjqGdwM7Th/N9/0LoYTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\getwo\\Mixocity\\MixocityApp\\MixocityApp\\MixocityApp.iOS\\MixocityApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\getwo\\.nuget\\packages\\com.airbnb.ios.lottie\\2.5.13\\com.airbnb.ios.lottie.2.5.13.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\4.0.11\\com.airbnb.xamarin.forms.lottie.4.0.11.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\plugin.mediamanager\\1.0.9\\plugin.mediamanager.1.0.9.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\plugin.mediamanager.forms\\1.0.9\\plugin.mediamanager.forms.1.0.9.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
