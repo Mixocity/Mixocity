@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "M//XnZEUw6NGVTztWzWTGmWLeRVN2sJONUXPAjvoqWTC6GGDVXl3ENp3VLFtZrvMA02qxY166BxbmFRG+MQTlw==",
+  "dgSpecHash": "PRx+OAT+f42/pIQGtMYmWPRLwNKarBRcNPOjQQKUCbrR8zwGV1s582G/H+fJrMHJL53tl2kBWQ2CzOpqWXNfaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\getwo\\Mixocity\\MixocityApp\\MixocityApp\\MixocityApp\\MixocityApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\getwo\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\4.0.11\\com.airbnb.xamarin.forms.lottie.4.0.11.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\firebaseauthentication.net\\3.7.2\\firebaseauthentication.net.3.7.2.nupkg.sha512",
     "C:\\Users\\getwo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\getwo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\getwo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\getwo\\.nuget\\packages\\plugin.mediamanager\\1.0.9\\plugin.mediamanager.1.0.9.nupkg.sha512",
     "C:\\Users\\getwo\\.nuget\\packages\\plugin.mediamanager.forms\\1.0.9\\plugin.mediamanager.forms.1.0.9.nupkg.sha512",
     "C:\\Users\\getwo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

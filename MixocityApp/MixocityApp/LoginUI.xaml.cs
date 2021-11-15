@@ -14,7 +14,10 @@ namespace MixocityApp
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
 
-        public partial class LoginUI : ContentPage
+
+
+
+    public partial class LoginUI : ContentPage
         {
             public LoginUI()
             {

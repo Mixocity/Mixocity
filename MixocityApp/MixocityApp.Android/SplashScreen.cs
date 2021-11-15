@@ -14,7 +14,7 @@ using Android.Media;
 
 namespace MixocityApp.Droid
 {
-    [Activity(Label = "MusicPlayer", MainLauncher = true, NoHistory = true, Theme = "@style/MyTheme.Splash")]
+    [Activity(Label = "Mixocity", MainLauncher = true, NoHistory = true, Theme = "@style/MyTheme.Splash")]
     public class SplashScreen : Activity, Android.Animation.Animator.IAnimatorListener
     {
 

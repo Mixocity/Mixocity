@@ -1,12 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MixocityApp.RegisterPage">
+             x:Class="MixocityApp.RegisterPage"
+             
+             BackgroundColor="Black"
+             >
+                     
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Register Page!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <ScrollView>
+        <StackLayout  Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            
+            <!-- Banner Image Formatting -->
+            <Image Source = "signupbanner.png" WidthRequest="400"  HeightRequest="230" TranslationY="0" ScaleX="1.2" ScaleY="1.4" ></Image>
+            
+            
+            <!-- Sign up Header and User Entry Form Formatting -->
+            <Label Text="Sign Up:" TextColor="Red" FontSize="40" FontFamily="Ariel" TranslationY="95" Margin="0,0,0,25" HorizontalOptions="Center" ></Label>
+
+            <Label Text="Username:" TextColor="red" FontSize="25" FontFamily="Ariel" TranslationY="95" Margin="25,0,0,0"></Label>
+            <Entry x:Name="txtUsername" Placeholder="Username" TextColor="White" PlaceholderColor="Gray" Margin="25,200,0,40" TranslationY="-60"   ></Entry>
+            <Label Text="Email Address:" TextColor="red" FontSize="25" FontFamily="Ariel" TranslationY="-80" Margin="25,0,0,0"></Label>
+            <Entry x:Name="txtEmailAddress" Placeholder="Email Address" TextColor="White"  PlaceholderColor="Gray" Margin="25,0,0,50" TranslationY="-50" ></Entry>
+            <Label Text="Password:" TextColor="red" FontSize="25" FontFamily="Ariel" TranslationY="-80" Margin="25,0,0,0"></Label>
+            <Entry x:Name="txtPassword" Placeholder="Password" TextColor="White" IsPassword="True" PlaceholderColor="Gray" Margin="25,0,0,50" TranslationY="-50" ></Entry>
+            <Entry x:Name="txtConfirmPassword" Placeholder="Confirm Password" TextColor="White" IsPassword="True" PlaceholderColor="Gray" Margin="25,0,0,50" TranslationY="-50" ></Entry>
+            <!-- Submit Button -->
+            <Button 
+                VerticalOptions="Center"
+                Text="Submit"
+                TextColor="white"
+                BackgroundColor="Transparent"
+                BorderWidth="1.5"
+                BorderColor="red"
+                CornerRadius="50" 
+                Clicked="SubmitClicked"
+                ></Button>
+            
         </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
